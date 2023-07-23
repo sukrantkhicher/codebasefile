@@ -1,0 +1,186 @@
+*{
+    box-sizing: border-box;
+}
+
+.view3{
+    
+    display: flex;
+    align-items: center ;
+    justify-content: space-around;
+   position: fixed;
+   top: 0px;
+   left: 0px;
+    right: 0px;
+    background-color: white;
+    padding: 15px;
+}
+
+.view img{
+    width: 200px;
+    margin: 0px 0px 10px 0px;
+}
+.view1 span{
+  margin-left: 10px;
+}
+
+.view1 a{
+    text-decoration: none;
+    background: rgb(71, 25, 255);
+    color: white;
+    padding: 9px 15px;
+    font-family: sans-serif;
+    border-radius: 3px;
+}
+
+.join{
+    text-align: center;
+    background-color: rgb(71, 25, 255);
+    color: white;
+    font-family: sans-serif;
+    padding: 50px 0px 130px 0px;
+    margin-bottom:50px ;
+}
+
+.join h1{
+    font-size: 70px;
+    font-weight: 300;
+    font-family: system-ui;
+    margin-bottom: 40px;
+    margin-top: 115px;
+}
+.join p{
+    font-size: 20px;
+    padding-bottom: 40px;
+}
+.join a{
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    padding: 20px 30px;
+    font-size: 20px;
+    border-radius: 4px;
+}
+
+.location{
+    display: flex;
+    justify-content: center;
+}
+
+.location1{
+    line-height: 0px;
+    font-family: cursive;
+    padding: 20px;
+}
+
+.location p{
+    padding: 10px;
+}
+
+.content1{
+    display: flex;
+    margin: 0px 0px 0px 15px;
+    align-items: center;
+}
+
+.content3 a{
+    text-decoration: none;
+    background-color: #666666;
+    padding: 10px 30px;
+    color: white;
+    border-radius: 5px;
+    margin-right: 20px;
+}
+
+.content:hover a{
+    background-color: rgb(71, 25, 255);
+    transition: .5s linear;
+}
+
+.content{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 2px solid;
+    font-family: sans-serif;
+    cursor: pointer;
+    border: 1px solid #fff;
+    
+    width: 1034px;
+    margin: 50px 0px 0px 110px;
+}
+.content:hover{
+    background-color: #fff5fb;
+    border: 1px solid #d9d4d4;
+    border-radius: 4px;
+}
+
+.content2 p{
+   margin: 10px;
+}
+
+.content5{
+    font-size: 20px;
+    padding: 0px 0px 0px 25px;
+}
+
+.llc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    background-color: #444444;
+    padding: 12px;
+    margin-top: 50px;
+    color: #fff;
+}
+
+
+.llc p{
+    font-size: 15px;
+    margin: 0px 15px;
+}
+
+.llc h4{
+    font-size: 20px;
+}
+
+.facebook{
+    background-color: #4267B2;
+    padding: 16px 20px;
+    color: white;
+    overflow: hidden;
+    position: fixed;
+    top: 200px;
+    left: 0px;
+}
+.facebook:hover{
+    width: 20px;
+}
+.twiter{
+    color: white;
+    background-color: #55acee;
+    padding: 16px 17px;
+    position: fixed;
+    top: 250px;
+    left: 0px;
+}
+.twiter:hover{
+    width: 25px;
+}
+.linkedin{
+    color: white;
+    background-color: #0077b5;
+    padding: 16px 18px;
+    position: fixed;
+    top: 300px;
+    left: 0px;
+}
+.linkedin:hover{
+    width: 20px;
+}
+.style{
+    padding: 10px;
+    overflow: hidden;
+    position: relative;
+}
+

@@ -1,0 +1,167 @@
+.char{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px 40px;
+}
+
+
+.meta img{
+    width: 140px;
+}
+.shift{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.match{
+   
+    margin: 0px 0px 0px 30px;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.match a{
+    display: inline-block;
+    height: 25px;
+    width: 158px;
+    background-color: #4E0FEA;
+    text-align: center;
+    text-decoration: none;
+    padding: 6px 0px;
+    border-radius: 6px;
+    font-style: normal;
+    font-size: 18px;
+    line-height: 24px;
+    color: #fff;
+    font-weight: bold;
+    font-family: sans-serif;  
+}
+
+.src img{
+    width: 60px;
+    border: 2px solid #eeeeee;
+    border-radius: 50%;
+    margin: 50px 0px 0px 110px;
+    padding: 10px;
+}
+
+.src{
+    width: 300px;
+    font-size: 20px;
+    font-family: sans-serif;
+   
+
+}
+.src p{
+    opacity: 0.7;
+    font-size: 17px;
+    text-align: center;
+    
+}
+.src h4{
+    text-align: center;
+    margin: 20px 0px 10px 0px;
+}
+
+.src1 img{
+    width: 60px;
+    border: 2px solid #eeeeee;
+    border-radius: 50%;
+    margin: 50px 0px 0px 110px;
+    padding: 10px;
+}
+
+
+.src1{
+    width: 300px;
+    font-size: 20px;
+    font-family: sans-serif;
+    
+}
+.src1 p{
+    opacity: 0.7;
+    font-size: 17px;
+    text-align: center;
+}
+.src1 h4{
+    text-align: center;
+    margin: 20px 0px 10px 0px;
+}
+
+.src9{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 100px;
+}
+.src3{
+    font-family: sans-serif;
+    margin: 70px 0px 15px 0px;
+    text-align: center;
+}
+
+
+.page img{
+    background-color: #6032ff;
+    width: 100%;
+}
+
+
+.idea{
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 45px;
+}
+.idea a{
+   text-decoration: none;
+    background-color: #6032ff;
+    color: white;
+    padding: 10px 30px;
+    font-size: 18px;
+    border-radius: 23px;
+}
+.idea p{
+    margin-bottom: 35px;
+}
+.idea h1{
+    font-weight: 100;
+}
+
+
+
+.view{
+    background-color: #4E0FEA;
+    margin-top: 80px;
+}
+.view img{
+    width: 220px;
+    margin: 56px 0px 0px 100px; 
+}
+
+.brand{
+    display: flex;
+    justify-content: space-between;
+    border-top:1px solid #f1f1f1;
+    color: white;
+    margin: 0px 100px;
+    align-items: baseline;
+    font-family: sans-serif;
+}
+.tube{
+    margin-bottom: 100px;
+}
+.shift p{
+   margin-left: 20px
+}
+
+.tube span{
+    margin-right: 20px;
+    font-size: 23px;
+}
+
+.drive{
+    color: #c9c0c0;
+}
+.tube p{
+    font-size: 12px;
+}

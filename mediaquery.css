@@ -1,0 +1,47 @@
+@media screen and (min-width:320px) and (max-width:570px)
+{
+    /* .shift
+    {
+        display: none !important;
+    } */
+    .main h1{
+        font-size: 20px !important;
+    }
+    .main p{
+        width: auto !important;
+    }
+    .font img{
+        margin-left: 30px !important;
+    }
+    body{
+        background-color: rgb(150, 198, 202) !important;
+    }
+    .char
+    {
+        display: none !important;
+    }
+    .font{
+        flex-direction: column;
+    }
+    .tejas{
+        flex-direction: column;
+    }
+    .often{
+        flex-direction: column;
+        align-items: center;
+    }
+    .back{
+        margin: 0px !important;
+    }
+.box{
+    width: auto !important;
+    height: auto !important;
+    margin: 0px !important;
+}
+.alt{
+    flex-direction: column;
+}
+.img{
+    flex-direction: column;
+}
+}
